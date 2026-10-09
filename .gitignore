@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+local.properties
+*.keystore
+*.jks
+signing.properties
+outputs/
+*-release-signing.txt
+*.iml
+.idea/
+.DS_Store
+.kotlin/
